@@ -1,6 +1,7 @@
-Hello, this is Timmy and this site is to have a couple of javascript codes.
+Hello, this is snoyper and this site is to have a couple of javascript codes.
 
-I did not make some of the code but a lot of it is mine.
+I did not make this code and i got it from timmy
+
 
 I will not make any python codes in this because I don't know anything about python.
 
